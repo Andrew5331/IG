@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SocIAl",
+    "slug": "social",
+    "scheme": "instagramclone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/icon.png", "resizeMode": "contain", "backgroundColor": "#000000" },
+    "android": { "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#000000" } },
+    "ios": { "supportsTablet": false }
+  }
+}
